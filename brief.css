@@ -1,0 +1,32 @@
+h1{
+    color:#8977ad;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:36px;
+    border: 2px solid #8977AD;
+    text-shadow: 2px 2px black;
+    padding: 25px 25px 25px 25px;
+    text-align:center;
+}
+
+h3{
+    color:#8977AD;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+
+}
+
+body{
+    background-color:aliceblue
+}
+
+p{
+    font-size: 15px;
+    color:purple;
+    font-family: cursive;
+}
+
+li{
+    font-size: 15px;
+    color:purple;
+    font-family: cursive;
+}

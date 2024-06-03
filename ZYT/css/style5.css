@@ -1,0 +1,15 @@
+h1{color:gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 72px;
+    border-style: dashed;
+    text-shadow: 2px 2px black;
+    padding: 25px 25px 25px 25px ;
+    text-align: center;
+    font-style: oblique;}
+
+h2{color: black;font-size:large;}
+h3{color: violet;font-size: large}
+h4{color: yellow;font-size:large}
+h5{color: grey;font-size:large}
+
+a{font-size: larger;}
